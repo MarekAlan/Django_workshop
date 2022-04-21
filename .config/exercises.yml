@@ -1,0 +1,2 @@
+exercises:
+    '01_System rezerwacji': { max_points: 0, disabled: true, translations: { en: '01_Booking system', pl: '01_System rezerwacji' } }
